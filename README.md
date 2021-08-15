@@ -2,7 +2,6 @@
 
 ## Live Site Url 
 
-https://tsimeonov.github.io/Newbie-_-Three-Column-Preview-Card/
 
 ## Layout
 
