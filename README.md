@@ -1,5 +1,7 @@
 # Newbie-\_-Three Column Preview Card
 
+https://tsimeonov.github.io/Newbie--_--Three-Column-Preview-Card/
+
 ## Live Site Url 
 
 
