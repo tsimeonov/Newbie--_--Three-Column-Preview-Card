@@ -1,39 +1,35 @@
-# Newbie-\_-Three Column Preview Card
+# Three Column Preview Card
 
-## Live Site Url 
+### The challenge
 
-https://tsimeonov.github.io/Newbie-_-Three-Column-Preview-Card/
+Users should be able to:
 
-## Layout
+- View the optimal layout for the site depending on their device's screen size
 
-The designs were created to the following widths:
+### Screenshot
 
-- Mobile: 860px
+![](./screenshot.jpg)
 
-## Colors
+### Links
 
-### Primary
+- Live Site URL: https://tsimeonov.github.io/Newbie-_-Three-Column-Preview-Card/
 
-body: radial-gradient rgba(35, 91, 102, 1) 0%, rgba(22, 55, 55, 1) 50%, rgba(211, 131, 47, 1) 100%
-card_sedan: orange rgb(211, 131, 47)
-card_suv: light-green rgb(35, 91, 102)
-card_luxury: dark-green rgb(22, 55, 55)
+## My process
 
-### Secondary
+### Built with
 
-text color: white #ffffff
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- SCSS
 
-## Typography
+### What I learned
 
-### Body Text
+- Using grid for layout
+- Using SCSS
 
-- Heading size: 52px
-- Font size: 16px
+## Author
 
-### Font - Family
-
-- Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
-- Weights: 400
-
-- Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
-- Weights: 700
+- Todor Simeonov
