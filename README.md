@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://tsimeonov.github.io/Three-Column-Preview-Card/
+- Live Site URL: 
 
 ## My process
 
